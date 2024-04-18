@@ -54,7 +54,7 @@ def _no_traceback_excepthook(exc_type, exc_val, traceback):
 
 def main():
     try:
-        i = 0;
+        i = 0
         d = bunny
         while True:
             clearScreen()
